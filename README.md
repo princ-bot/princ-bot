@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @princ-bot
+- 👋 Hi, I’m Prince Edward Romano
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning ethical hacking and software engineering
 - 💞️ I’m looking to collaborate on ...

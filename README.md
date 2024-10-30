@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prince Edward Romano
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Cybersecurity and Software Engineer
 - 🌱 I’m currently learning ethical hacking and software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at prince.edward.romano01@gmail.com

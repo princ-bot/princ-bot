@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at prince.edward.romano01@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: If it work then touch it
+- ⚡ Fun fact: If it work don't touch it
 
 <!---
 princ-bot/princ-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

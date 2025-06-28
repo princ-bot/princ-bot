@@ -1,12 +1,28 @@
-- 👋 Hi, I’m Prince Edward Romano
-- 👀 I’m interested in Cybersecurity and Software Engineer
-- 🌱 I’m currently learning ethical hacking and software engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at prince.edward.romano01@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: If it work don't touch it
+<p align="center">
+  <img src="https://your-header-image-url.com" alt="Header" width="100%" />
+</p>
 
-<!---
-princ-bot/princ-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">Hello, I'm Prince</h2>
+
+---
+
+### 📇 Profile Info
+
+<table>
+  <tr>
+      <h3>Followers</h3>
+      <img src="https://img.shields.io/github/followers/princ-bot?label=Followers&style=social" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Boot Sequence
+
+```bash
+/boot $ = SYSTEM BOOT SEQUENCE INITIATED =
+/boot $ MOV AX, YourGitHubUsername
+/boot $ MOV BX, "https://github.com/YourGitHubUsername"
+/sys/init $ PUSH user.name -> "Your Name"
+/sys/init $ PUSH user.email -> "your.email@domain.com"
